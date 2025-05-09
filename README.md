@@ -4,7 +4,6 @@ Hi 👋 My name is Ahmed Khalil Seddik
 Web developer, software engineer and a competitive programing problem setter
 ----------------------------------------------------------------------------
 
-* 🌍  I'm based in Tunis, Tunisia
 * ✉️  You can contact me at [ka.seddik@gmail.com](mailto:ka.seddik@gmail.com)
 
 ### Socials
